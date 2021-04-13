@@ -10,4 +10,5 @@ cin >> a >> b;
 cout << "A + B = " << c << endl;
 cout << "A - B = " << c << endl;
 cout << "A * B = " << c << endl;
+cout << "A / B = " << c << endl;
 }
