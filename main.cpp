@@ -1,13 +1,13 @@
 #include <iostream>
 
 using namespace std;
-/* That is a program for study */
+
 int main()
 {
-  int a, b;
-  cout << "Enter A and B: ";
-  cin >> a >> b;
-  cout << "A + B = " << a + b << '\n'
-  << "A - B = " << a - b << '\n'
-  << "A * B = " << a * b << '\n';
+int a, b, c;
+cout << "Enter A and B: ";
+cin >> a >> b;
+cout << "A + B = " << c << endl;
+cout << "A - B = " << c << endl;
+cout << "A * B = " << c << endl;
 }
