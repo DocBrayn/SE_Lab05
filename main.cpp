@@ -7,6 +7,6 @@ int main()
     int a, b, c;
     cout << "Enter two integer numbers" << endl;
     cin >> a >> b;
-    c = a - b;
-    cout << "a - b = " << c << endl;
+    c = a * b;
+    cout << "a * b = " << c << endl;
 }
