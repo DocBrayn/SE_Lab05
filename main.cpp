@@ -4,9 +4,10 @@ using namespace std;
 /* That is a program for study */
 int main()
 {
-    int a, b, c;
-    cout << "Enter two integer numbers" << endl;
-    cin >> a >> b;
-    c = a * b;
-    cout << "a * b = " << c << endl;
+  int a, b;
+  cout << "Enter A and B: ";
+  cin >> a >> b;
+  cout << "A + B = " << a + b << '\n'
+  << "A - B = " << a - b << '\n'
+  << "A * B = " << a * b << '\n';
 }
